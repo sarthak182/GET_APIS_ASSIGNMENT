@@ -1,4 +1,4 @@
-# GET API Data Script in Python
+# GET API Data Script in Python  
 This Python script fetches user data from a public API and displays users whose city name starts with a specified letter. 'S' in this instance.
 It also handles missing data, empty responses, and provides a numerical summary of the results.
 
@@ -10,7 +10,7 @@ It also handles missing data, empty responses, and provides a numerical summary 
 - Python 3.x
 - `requests` library
 
-## TO RUN:
+## TO RUN:  
 1) Clone the repository:
 
 `git clone https://github.com/sarthak182/GET_APIS_ASSIGNMENT`
