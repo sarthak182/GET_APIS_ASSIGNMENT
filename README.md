@@ -6,11 +6,11 @@ It also handles missing data, empty responses, and provides a numerical summary 
 
 
 # Running the Script:
-REQUIREMENTS:
+## REQUIREMENTS:
 - Python 3.x
 - `requests` library
 
-TO RUN:
+## TO RUN:
 1) Clone the repository:
 git clone https://github.com/sarthak182/GET_APIS_ASSIGNMENT
 
